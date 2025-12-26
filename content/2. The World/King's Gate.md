@@ -1,3 +1,0 @@
-#location #Outer_City #Inner_City #Drakkenheim 
-
-Marked as the second point on our map of [[Drakkenheim]]. Supposedly occupied by a band of trolls, where entry to the Inner City costs you an arm and a leg...
